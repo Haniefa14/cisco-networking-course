@@ -15,4 +15,4 @@ This repository contains my notes, configurations, and lab exercises from the Ci
 -	⚙️ DNS, DHCP, and ARP operations
 -	🔄 Transport layer protocols
 
-This repository serves as a reference for building and configuring small Cisco networks and is a foundation for Cybersecurity and DevNet specializations.
+This repository serves as a reference for building and configuring small Cisco networks and is a foundation for Cybersecurity and DevNet specialisations.
